@@ -26,9 +26,7 @@
 	<body class="landing">
 
 		<!-- Header -->
-			<header id="header" class="alt skel-layers-fixed">
-				<h1><a href="index.html">HTML5 Website <span>by Html5webtemplates.co.uk</span></a></h1>
-			</header>
+			
 
 
 
