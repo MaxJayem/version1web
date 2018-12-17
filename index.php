@@ -39,8 +39,8 @@
 						<p>Vielen Dank für Ihre Teilnahme an diesem Experiment
 							Die Dauer beträgt insgesamt ca. <b>10 Minuten</b>.
 							Nach einer kurzen Einleitung in das <b>Szenario</b> werden Sie sich innerhalb dieses Experiments
-							für wenige Minuten textbasiert mit einem so gennanten <b>Chatbot</b> unterhalten.
-							Dabei sollen Sie eine kleine Aufgabe bewältigen, die Ihnen auf der folgenden Seite erklärt wird.
+							für wenige Minuten textbasiert mit einem so gennanten <b>Chatbot</b> unterhalten. Dabei handelt es sich um eine Software, mit der Sie mit Hilfe von natürlicher Sprache kommunizieren können.
+							Ziel ist es, eine kleiene Aufgabe zu lösen, die Ihnen auf der folgenden Seite erklärt wird.
 							Bitte lesen Sie sich das Szenario und die Aufgabenstellung aufmerksam durch und folgen dann dem Link zum Chabot
 							Im Anschluss an das Experiment werden Ihnen einige Fragen zu der Unterhaltung mit dem Chatbot gestellt.</p>
 					</header>
