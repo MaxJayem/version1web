@@ -36,13 +36,17 @@
 				<div class="container">
 					<header class="major">
 						<h2>Herzlich Wilkommen</h2>
-						<p>Vielen Dank für Ihre Teilnahme an diesem Experiment
-							Die Dauer beträgt insgesamt ca. <b>10 Minuten</b>.
-							Nach einer kurzen Einleitung in das <b>Szenario</b> werden Sie sich innerhalb dieses Experiments
-							für wenige Minuten textbasiert mit einem so gennanten <b>Chatbot</b> unterhalten. Dabei handelt es sich um eine Software, mit der Sie mit Hilfe von natürlicher Sprache kommunizieren können.
+						<p>Vielen Dank für Ihre Teilnahme an diesem Experiment! 
+							Die Dauer beträgt insgesamt <b>ca. 10 Minuten</b>.
+							Nach einer kurzen Einleitung in das <b>Szenario</b> werden Sie sich 
+							für wenige Minuten mit einem so gennanten <b>Chatbot</b> unterhalten. Dabei handelt es sich um eine Software, mit der Sie textbasiert kommunizieren können. Das heißt, sie kommunizieren nicht mit einem Menschen, sondern mit einem Programm.
 							Ziel ist es, eine kleine Aufgabe zu lösen, die Ihnen auf der folgenden Seite erklärt wird.
-							Bitte lesen Sie sich das Szenario und die Aufgabenstellung aufmerksam durch und folgen dann dem Link zum Chabot
-							Im Anschluss an das Experiment werden Ihnen einige Fragen zu der Unterhaltung mit dem Chatbot gestellt.</p>
+							Bitte lesen Sie sich das Szenario und die Aufgabenstellung <b>!aufmerksam!</b> durch und folgen dann dem Link zum Chatbot.
+							Im Anschluss an das Experiment werden Ihnen einige Fragen zu der Unterhaltung mit dem Chatbot gestellt.
+						</br>
+						</br>
+						VIELEN DANK!
+						</p>
 					</header>
 
 				</div>
@@ -50,7 +54,7 @@
 			
 		<!-- CTA -->
 			<section id="cta" class="wrapper style3">
-				<h2>Hier gehts zum Szenario</h2>
+				<h2>Hier gehts zum Szenario!</h2>
 				<ul class="actions">
 					<li><a href="szenario.html" class="button big">Los geht's</a></li>
 				</ul>
