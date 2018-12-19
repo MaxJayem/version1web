@@ -79,11 +79,23 @@
 		<section id="cta" class="wrapper style3">
 			<h2>Hier geht es zum Experiment ---></h2>
 			<ul class="actions">
-				<li><a href="https://chatbotexperiment1.herokuapp.com/" class="button big">Los geht's</a></li>
+				<li><a id= "linkbutton" href="https://chatbotexperiment1.herokuapp.com/" class="button big">Los geht's</a></li>
 			</ul>
 		</section>
-			
 
+	<!-- Skript, welches zufälligen Link zu Control/Treatment herstellt -->		
 
+<script type="text/javascript">
+
+    // Calculate random number between 0 and 1
+    var randomNumber = Math.round(Math.random());
+    var experimentURL = "empty";
+
+    // Set link accordingly
+    if (randomNumber == 0) experimentURL = "https://chatbotexperiment1.herokuapp.com/";  //Treatment URL
+    else experimentURL = "https://facebook.com";			//Control-URL
+    document.getElementById("linkbutton").href = experimentURL;
+
+</script>
 	</body>
 </html>
