@@ -76,6 +76,14 @@ curl_setopt($ci, CURLOPT_RETURNTRANSFER, true);
 // Get the response and close the channel.
 $response1 = curl_exec($ci);
 curl_close($ci);
+
+ $cf = curl_init();
+curl_setopt($cf, CURLOPT_URL, "https://ca2experiment.herokuapp.com/");
+// Set so curl_exec returns the result instead of outputting it.
+curl_setopt($cf, CURLOPT_RETURNTRANSFER, true);
+// Get the response and close the channel.
+$response2 = curl_exec($cf);
+curl_close($cf);
 ?>		
 
 
