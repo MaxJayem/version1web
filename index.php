@@ -59,6 +59,7 @@
 					<li><a href="szenario.html" class="button big">Los geht's</a></li>
 				</ul>
 			</section>
+<!-- Skript, dass die beiden anderen Seiten schon einmal lädt (Linda, Dialogflow-Webhook)-->
 	<?php
  $ch = curl_init();
 curl_setopt($ch, CURLOPT_URL, "https://ca1treament.herokuapp.com/");
@@ -67,8 +68,14 @@ curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 // Get the response and close the channel.
 $response = curl_exec($ch);
 curl_close($ch);
-echo("Ergebnis: ");
-echo($response);
+
+ $ci = curl_init();
+curl_setopt($ci, CURLOPT_URL, "https://chatbotexperiment1.herokuapp.com/");
+// Set so curl_exec returns the result instead of outputting it.
+curl_setopt($ci, CURLOPT_RETURNTRANSFER, true);
+// Get the response and close the channel.
+$response1 = curl_exec($ci);
+curl_close($ci);
 ?>		
 
 
