@@ -40,7 +40,7 @@
 							Nach einer kurzen Einleitung in das <b>Szenario</b> werden Sie sich 
 							für wenige Minuten mit einem so gennanten <b>Chatbot</b> unterhalten. Dabei handelt es sich um eine Software, mit der Sie textbasiert kommunizieren können. Das heißt, sie kommunizieren nicht mit einem Menschen, sondern mit einem Programm.
 							Ziel ist es, eine kleine Aufgabe zu lösen, die Ihnen auf der folgenden Seite erklärt wird.
-							Bitte lesen Sie sich das Szenario und die Aufgabenstellung <b>!aufmerksam!</b> durch und folgen dann dem Link zum Chatbot.
+							Bitte lesen Sie sich das Szenario und die Aufgabenstellung <b>aufmerksam</b> durch und folgen dann dem Link zum Chatbot.
 							Im Anschluss an das Experiment werden Ihnen einige Fragen zu der Unterhaltung mit dem Chatbot gestellt. </br>
 							Die Dauer beträgt insgesamt <b>ca. 10 Minuten</b>.
 						
