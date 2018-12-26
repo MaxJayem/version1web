@@ -51,7 +51,6 @@
 			
 		<!-- CTA -->
 			<section id="cta" class="wrapper style3">
-				<h2>Hier gehts zum Szenario!</h2>
 				<ul class="actions">
 					<li><a href="szenario.html" class="button big">Los geht's</a></li>
 				</ul>
