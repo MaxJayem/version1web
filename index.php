@@ -41,7 +41,7 @@
 							Im Anschluss erhalten Sie den Link zu der Umfrage.</br></br>
 							Die Dauer für die Teilnahme an dem Experiment beträgt <b>rund 10 Minuten</b>. 
 							Bitte klicken Sie nun auf den untenstehenden Link um das Experiment zu starten und lesen Sie sich die Hinweise aufmerksam durch. 
-							Vielen Dank für Ihre Teilnahme..
+							Vielen Dank für Ihre Teilnahme.
 						
 						</p>
 					</header>
