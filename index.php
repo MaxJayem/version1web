@@ -52,7 +52,7 @@
 		<!-- CTA -->
 			<section id="cta" class="wrapper style3">
 				<ul class="actions">
-					<li><a href="szenario.html" class="button big">Los geht's</a></li>
+					<li><a href="szenario.html" class="button big">Zum Szenario</a></li>
 				</ul>
 			</section>
 <!-- Skript, dass die beiden anderen Seiten schon einmal lädt (Linda, Dialogflow-Webhook)-->
