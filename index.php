@@ -36,13 +36,12 @@
 				<div class="container">
 					<header class="major">
 						<h2>Herzlich Wilkommen</h2>
-						<p>Vielen Dank für Ihre Teilnahme an diesem Experiment! 
-							Nach einer kurzen Einleitung in das <b>Szenario</b> werden Sie sich 
-							für wenige Minuten mit einem so gennanten <b>Chatbot</b> unterhalten. Dabei handelt es sich um eine Software, mit der Sie textbasiert kommunizieren können. Das heißt, sie kommunizieren nicht mit einem Menschen, sondern mit einem Programm.
-							Ziel ist es, eine kleine Aufgabe zu lösen, die Ihnen auf der folgenden Seite erklärt wird.
-							Bitte lesen Sie sich das Szenario und die Aufgabenstellung <b>aufmerksam</b> durch und folgen dann dem Link zum Chatbot.
-							Im Anschluss an das Experiment werden Ihnen einige Fragen zu der Unterhaltung mit dem Chatbot gestellt. </br>
-							Die Dauer beträgt insgesamt <b>ca. 10 Minuten</b>.
+						<p>Das folgende Experiment besteht aus zwei Abschnitten: Einer kurzen Interaktion mit einem Chatbot, das heißt einer Software mit welcher Sie über natürliche Sprache kommunizieren können, und einer anschließenden Umfrage. 
+							Das Ziel der Interaktion mit dem Chatbot ist es, eine kleine Aufgabe im Kundenservice zu lösen, welche auf der folgenden Seite erklärt wird.
+							Im Anschluss erhalten Sie den Link zu der Umfrage.</br></br>
+							Die Dauer für die Teilnahme an dem Experiment beträgt <b>rund 10 Minuten</b>. 
+							Bitte klicken Sie nun auf den untenstehenden Link um das Experiment zu starten und lesen Sie sich die Hinweise aufmerksam durch. 
+							Vielen Dank für Ihre Teilnahme..
 						
 						</p>
 					</header>
