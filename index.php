@@ -20,7 +20,7 @@
 		<script type="text/javascript">
 			
 			function triggerSite() {
-				alert("Page is loaded");
+				
 				$("#div1").load('trigger.php'); 
 			}
 		</script> 
@@ -54,6 +54,7 @@
 							Vielen Dank für Ihre Teilnahme.
 						
 						</p>
+					<div id="div1"><h2></h2></div>
 					</header>
 
 				</div>
@@ -65,7 +66,7 @@
 					<li><a href="szenario.html" class="button big">Zum Szenario</a></li>
 				</ul>
 			</section>
-<div id="div1"><h2>Test</h2></div>
+
 	
 	</body>
 </html>
