@@ -121,7 +121,7 @@ curl_setopt($cf, CURLOPT_RETURNTRANSFER, true);
 // Get the response and close the channel.
 $response2 = curl_exec($cf);
 
-f(curl_errno($cf)){
+if(curl_errno($cf)){
     throw new Exception(curl_error($cf));
 }
 //BugfixPar2
