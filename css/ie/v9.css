@@ -9,3 +9,10 @@
 	#banner:after {
 		display: none;
 	}
+
+.chatbot{
+	height: 100vh;
+	max-width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+}
