@@ -73,7 +73,7 @@
 </section>
 <section id="cta" class="wrapper style3">
     <ul class="actions">
-        <li><a id="linkbutton" href="https://dialogflow-client.herokuapp.com/" target="_blank" class="button big">Los
+        <li><a id="linkbutton" href="/chatbot.html" target="_blank" class="button big">Los
             geht's</a></li>
     </ul>
 </section>
@@ -87,8 +87,8 @@
     var experimentURL = "empty";
 
     // Set link accordingly
-    if (randomNumber == 0) experimentURL = "https://dialogflow-client.herokuapp.com/";  //Treatment URL
-    else experimentURL = "https://dialogflow-client2.herokuapp.com/";			//Control-URL
+    if (randomNumber == 0) experimentURL = "/chatbot2.html";  //Treatment URL
+    else experimentURL = "/chatbot.html";			//Control-URL
     document.getElementById("linkbutton").href = experimentURL;
 
 </script>
