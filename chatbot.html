@@ -16,6 +16,13 @@
     <script src="js/skel.min.js"></script>
     <script src="js/skel-layers.min.js"></script>
     <script src="js/init.js"></script>
+
+    <script>
+        var link = document.getElementById("buttonLink");
+        setTimeout(function(){
+            buttonLink.style.display = "block";
+        }, 1000*60*5);
+    </script>
     <noscript>
         <link rel="stylesheet" href="css/skel.css"/>
         <link rel="stylesheet" href="css/style.css"/>
@@ -28,17 +35,25 @@
 </head>
 <body>
 <div>
+
     <iframe
             allow="microphone;"
             width="100%"
-            height="95%"
+            height="700"
             src="https://console.dialogflow.com/api-client/demo/embedded/59bbc534-c656-4b49-93e6-3a26b334347f">
     </iframe>
 
+    </br>  </br>
+    <h1 style="text-align: center">
+        Der Link zur Umfrage wird Ihnen nach Lösung des Rätsels hier angezeigt. </br>
+    ⬇⬇⬇
+    </h1>
+    <section id="buttonLink" class="wrapper style3" style ="display:none">
+        <ul class="actions">
+            <li><a id="linkbutton" href="https://docs.google.com/forms/d/1NanIs9gSdrajReTAUDUCywRaUTptCTWHLZFck5p-Ckk/edit" target="_blank" class="button big"> Zur Umfrage</a></li>
+        </ul>
+    </section>
 
-    <button href="https://docs.google.com/forms/d/1NanIs9gSdrajReTAUDUCywRaUTptCTWHLZFck5p-Ckk/edit">
-        Zur Umfrage
-    </button>
 </div>
 </body>
 </html>
